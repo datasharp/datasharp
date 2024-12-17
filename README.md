@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## About Me
-- 🔭 Currently working on a fuzzy finder project and a finance tracker app in Golang.
+- 🔭 Currently working on a project flow organizer. [12/2024]
 - 🌱 Learning Golang, data structures, algorithms, and backend engineering.
 - 👯 Open to collaborating on software and data engineering projects.
 - ⚡ Fun fact: I compose music and enjoy fitness.
